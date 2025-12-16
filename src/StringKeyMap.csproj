@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <!-- Package Info -->
+        <PackageId>StringQueryMap</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Alecio Furanze</Authors>
+        <Company>KeZero</Company>
+        <Product>StringQueryMap</Product>
+        <Description>A lightweight library for serializing and deserializing key-value pairs as strings.</Description>
+        <PackageTags>key-value;serialization;deserialization;generic;dotnet</PackageTags>
+        <RepositoryUrl>https://github.com/kezerocom/StringQueryMap</RepositoryUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/kezerocom/StringQueryMap</PackageProjectUrl>
+        <!-- <PackageIcon>icon.png</PackageIcon> -->
+        <PackageReleaseNotes>Initial release of StringQueryMap.</PackageReleaseNotes>
+        <NeutralLanguage>en</NeutralLanguage>
+        <!-- Include symbols for debugging -->
+        <IncludeSymbols>true</IncludeSymbols>
+        <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="../readme.md" Pack="true" PackagePath=""/>
+        <None Include="../license.md" Pack="true" PackagePath=""/>
+    </ItemGroup>
+
+</Project>
