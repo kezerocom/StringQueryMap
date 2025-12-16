@@ -13,6 +13,7 @@
         <RepositoryUrl>https://github.com/kezerocom/StringQueryMap</RepositoryUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageProjectUrl>https://github.com/kezerocom/StringQueryMap</PackageProjectUrl>
+        <PackageReadmeFile>readme.md</PackageReadmeFile>
         <!-- <PackageIcon>icon.png</PackageIcon> -->
         <PackageReleaseNotes>Initial release of StringQueryMap.</PackageReleaseNotes>
         <NeutralLanguage>en</NeutralLanguage>
@@ -23,8 +24,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <None Include="../readme.md" Pack="true" PackagePath=""/>
-        <None Include="../license.md" Pack="true" PackagePath=""/>
+        <None Include="../readme.md" Pack="true" PackagePath="/"/>
+        <None Include="../license.md" Pack="true" PackagePath="/"/>
     </ItemGroup>
 
 </Project>
