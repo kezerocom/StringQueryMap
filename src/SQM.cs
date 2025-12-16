@@ -6,7 +6,7 @@ using System.Net;
 using System.Numerics;
 using System.Reflection;
 
-namespace StringKeyMap
+namespace StringQueryMap
 {
     /// <summary>
     ///     Represents a generic key-value mapper that can serialize and deserialize key-value pairs to/from strings.

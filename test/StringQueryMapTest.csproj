@@ -19,7 +19,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\src\StringKeyMap.csproj"/>
+        <ProjectReference Include="..\src\StringQueryMap.csproj" />
     </ItemGroup>
 
 </Project>

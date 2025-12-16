@@ -1,7 +1,9 @@
 ﻿using System.Globalization;
 using System.Net;
 using System.Numerics;
-using StringKeyMap;
+using StringQueryMap;
+
+namespace StringQueryMapTest;
 
 public class SQMTests
 {

@@ -4,7 +4,7 @@
         <TargetFramework>netstandard2.0</TargetFramework>
         <!-- Package Info -->
         <PackageId>StringQueryMap</PackageId>
-        <Version>1.0.0</Version>
+        <Version>2.0.0</Version>
         <Authors>Alecio Furanze</Authors>
         <Company>KeZero</Company>
         <Product>StringQueryMap</Product>
@@ -15,7 +15,13 @@
         <PackageProjectUrl>https://github.com/kezerocom/StringQueryMap</PackageProjectUrl>
         <PackageReadmeFile>readme.md</PackageReadmeFile>
         <!-- <PackageIcon>icon.png</PackageIcon> -->
-        <PackageReleaseNotes>Initial release of StringQueryMap.</PackageReleaseNotes>
+        <PackageReleaseNotes>
+            1.0.0
+            - Initial release of StringQueryMap
+            2.0.0
+            - Renamed project, solution, and namespaces from StringKeyMap to StringQueryMap
+            - Updated README and documentation references
+        </PackageReleaseNotes>
         <NeutralLanguage>en</NeutralLanguage>
         <!-- Include symbols for debugging -->
         <IncludeSymbols>true</IncludeSymbols>
