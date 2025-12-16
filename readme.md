@@ -124,5 +124,5 @@ and enums (any enum type)
 
 * Created for KeZero, available to the community.
 * Licensed under the MIT License.
-* Creator: Alecio Furanze ([https://github.com/furanze](https://github.com/furanze))
+* Creator: Alecio Furanze ([https://github.com/furanze](https://github.com/afuranze))
 * Repository: kezerocom/StringQueryMap ([https://github.com/kezerocom/StringQueryMap](https://github.com/kezerocom/StringQueryMap))
